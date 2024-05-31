@@ -1,6 +1,7 @@
 # gRPC-AutoCompiler-WinDesktop
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repo-blue?style=flat&logo=github)](https://github.com/AmSoMad/gRPC-AutoCompiler-WinDesktop)
+![Project Logo](img1.png)
 
 **gRPC-AutoCompiler-WinDesktop**는 새로운 시대의 프로토콜 컴파일링 자동화를 목표로 합니다. 
 이 프로젝트는 WinForms 애플리케이션을 사용하여 프로토콜 버퍼 파일을 여러 언어로 자동 컴파일합니다.
